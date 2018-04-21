@@ -11,7 +11,7 @@ analyzejquery(based on version 2.0.3)
 ![image](./imgs/jqueryArchitecture2.jpg)
 
 
-#### learned :
+#### What I have learned :
 1. no new constructor
 2. chain invoke
 3. plugin for extension
